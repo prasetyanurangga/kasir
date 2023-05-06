@@ -1,0 +1,6 @@
+export const GET_FOOD_MENU = "GET_FOOD_MENU";
+export const INIT = "INIT";
+export const GET_DETAIL_FOOD_MENU = "GET_DETAIL_FOOD_MENU";
+export const CREATE_FOOD_MENU = "CREATE_FOOD_MENU";
+export const UPDATE_FOOD_MENU = "UPDATE_FOOD_MENU";
+export const DELETE_FOOD_MENU = "DELETE_FOOD_MENU";
